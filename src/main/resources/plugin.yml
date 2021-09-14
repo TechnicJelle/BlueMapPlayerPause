@@ -1,0 +1,9 @@
+name: BlueMapPlayerPause
+version: '${project.version}'
+main: net.mctechnic.bluemapplayerpause.BlueMapPlayerPause
+api-version: 1.17
+depend:
+  - BlueMap
+author: TechnicJelle
+description: '${project.description}'
+website: '${project.url}'
