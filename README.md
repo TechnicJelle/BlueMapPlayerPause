@@ -1,3 +1,5 @@
+# This functionality was added in [BlueMap v1.6.2](https://github.com/BlueMap-Minecraft/BlueMap/releases/tag/v1.6.2) so this plugin is now redundant
+
 # BlueMap Player Pause
 A Minecraft Paper plugin and [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) addon that pauses the rendering of the map when there are players online.
 
